@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### yarn add antd antd-country-phone-input
+### `yarn add antd antd-country-phone-input`
 
 Im using Ant Design UI
 
