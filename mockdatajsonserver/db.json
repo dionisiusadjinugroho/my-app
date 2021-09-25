@@ -1,0 +1,41 @@
+{
+  "Company": [
+    {
+      "id": 67814,
+      "datacompanyName": "Alibaba",
+      "datacompanyAddress": "Sanghai 123123",
+      "datacompanyRevenue": 9999999999,
+      "datacompanyPhone": {
+        "phone": "123123123",
+        "code": 86,
+        "short": "CN"
+      }
+    }
+  ],
+  "Office": [
+    {
+      "id": 83791,
+      "dataofficeName": "sfsadfsadf",
+      "dataofficeLocLatitude": 123,
+      "dataofficeLocLongitude": 123,
+      "dataofficeStartDate": "2021-09-02T17:50:40.414Z",
+      "dataofficeCompany": "aaaaaaaaaaaa"
+    },
+    {
+      "id": 27862,
+      "dataofficeName": "Office Alibaba1",
+      "dataofficeLocLatitude": 1,
+      "dataofficeLocLongitude": 2,
+      "dataofficeStartDate": "2021-09-21T17:53:12.096Z",
+      "dataofficeCompany": "Alibaba"
+    },
+    {
+      "id": 87016,
+      "dataofficeName": "Office Alibaba2",
+      "dataofficeLocLatitude": 1,
+      "dataofficeLocLongitude": 2,
+      "dataofficeStartDate": "2021-09-21T17:53:12.096Z",
+      "dataofficeCompany": "Alibaba"
+    }
+  ]
+}
